@@ -1,5 +1,7 @@
+
 ch=(input())
-if(ch=='a' or char=='A',ch=='e' or char=='E',ch=='i' or char=='I',ch=='o' or char=='O',ch=='u' or char=='U'):
+if(ch=='a' or ch=='A' or ch=='e' or ch=='E' or ch=='i' or ch=='I' or ch=='o' or ch=='O'or ch=='u' or ch=='U'):
      print("Vowel")
 else:
      print("Consonant")
+    
