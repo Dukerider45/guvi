@@ -1,4 +1,4 @@
-a,b= map(int,input().split())
+a,b= map(int,raw_input().split())
 for n in range(a+1,b+1):
 	f=0
 	for i in range(2,n//1):
