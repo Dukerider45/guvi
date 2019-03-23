@@ -1,3 +1,3 @@
 import math
-he=int(input("Enter the number"))
+he=int(input(""))
 print(math.factorial(he))
