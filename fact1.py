@@ -1,3 +1,3 @@
 import math
-he=int(input(""))
-print(math.factorial(he))
+h=int(input(""))
+print(math.factorial(h))
