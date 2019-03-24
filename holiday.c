@@ -3,7 +3,7 @@
 
 int main(void) {
 	char h[100];
-	scanf("%s",a);
+	scanf("%s",h);
 	if(a[0]=='h' || a[0]=='h')
 	{
 		printf("yes");
